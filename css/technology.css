@@ -1,0 +1,246 @@
+section.hero.tech {
+  background: url(../images/hero-tech-img.jpg);
+  background-size: cover;
+  background-position: right;
+}
+
+section.tech {
+  padding: 80px 0;
+}
+section.tech.df .content {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+section.tech .content .inBox {
+}
+section.tech .content .inBox h3 {
+  font-family: "Barlow";
+  font-size: 34px;
+  font-weight: 400;
+  margin: 0 0 15px;
+}
+section.tech .content .inBox h4 {
+  font-family: "Barlow";
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0 0 15px;
+}
+section.tech .content .inBox p {
+  font-family: "Barlow";
+  font-size: 15px;
+  color: #000;
+  margin: 0 0 15px;
+}
+section.tech .content .inBox a.btn.btn-heroLink {
+  background: #24beed;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 0px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 0;
+  text-transform: uppercase;
+  padding: 12px 20px;
+  font-weight: bold;
+}
+section.tech .content .inBox p.slogan {
+  font-size: 16px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  margin: 0;
+}
+
+section.tech figure {
+  margin: 0;
+}
+section.tech figure img {
+  width: 100%;
+}
+
+section.fullBarContent {
+  background: #f2f5f5;
+  padding: 80px 0;
+}
+section.fullBarContent h3 {
+  font-family: "Barlow";
+  text-align: center;
+  font-size: 22px;
+  margin: 0 0 15px;
+}
+section.fullBarContent p {
+  text-align: center;
+  font-size: 16px;
+  margin: 0 15% 15px;
+}
+section.fullBarContent p.note {
+  font-size: 14px;
+  margin: 0;
+}
+
+section.servicePro {
+  padding: 80px 0 0;
+}
+section.servicePro .spBox {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 0 80px;
+}
+section.servicePro .spBox .imgBox {
+  margin: 0 15px 0 0;
+}
+section.servicePro .spBox .imgBox figure {
+  width: 56px;
+  margin: -15px 0 0;
+}
+section.servicePro .spBox .imgBox figure img {
+  width: 100%;
+  height: auto;
+}
+
+section.servicePro .spBox .content {
+}
+section.servicePro .spBox .content .inBox {
+}
+section.servicePro .spBox .content h3 {
+  font-size: 24px;
+  margin: 0 0 15px;
+}
+section.servicePro .spBox .content h4 {
+  font-size: 16px;
+  margin: 0 0 10px;
+}
+section.servicePro .spBox .content p {
+  font-size: 18px;
+  color: #000;
+  line-height: 1.4;
+  margin: 0 0 15px;
+}
+section.servicePro .spBox .content a.learn-more {
+  color: #24beed;
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+section.alwaysService {
+  padding: 0 0 60px;
+}
+section.alwaysService .container {
+  padding: 30px;
+  background: #f2f5f5;
+}
+section.alwaysService h3 {
+  font-size: 30px;
+  font-weight: 600;
+  margin: 0 0 10px;
+}
+section.alwaysService p {
+  font-size: 15px;
+  margin: 0 20% 20px 0;
+  font-weight: normal;
+}
+section.alwaysService .imgBox {
+}
+section.alwaysService .imgBox figure {
+  margin: 0;
+}
+section.alwaysService .imgBox figure img {
+  width: 100%;
+}
+
+section.alwaysService .imgFlexBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+section.alwaysService .imgFlexBox .colFlex {
+  margin: 6px;
+}
+section.alwaysService .imgFlexBox .colFlex figure {
+  margin: 0;
+}
+section.alwaysService .imgFlexBox .colFlex figure img {
+  width: 100%;
+}
+
+section.discover {
+  background: #3a3a3a;
+  padding: 40px 0;
+}
+section.discover .content {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+section.discover .content .inBox {
+}
+section.discover .content .inBox h3 {
+  font-size: 34px;
+  color: #fff;
+  margin: 0 0 15px;
+}
+section.discover .content .inBox p {
+  font-size: 15px;
+  color: #fff;
+  margin: 0 35% 15px 0;
+}
+section.discover .content .inBox a.btn.btn-getTouch {
+  background: #24beed;
+  font-size: 15px;
+  color: #fff;
+  border-radius: 2px;
+  padding: 10px 20px;
+  margin: 0;
+  width: 140px;
+  font-weight: bold;
+  height: 48px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section.discover .imgBox {
+}
+section.discover .imgBox figure {
+  margin: 0;
+}
+section.discover .imgBox figure img {
+  width: 100%;
+}
+
+section.partner.purple {
+  background: #8a05e3;
+}
+section.partner.purple .partnerBox {
+  margin: 0;
+}
+section.partner.purple .partnerBox h3 {
+  color: #fff;
+  margin: 0 0 30px;
+}
+section.partner.purple .partnerBox p {
+  color: #fff;
+  display: none;
+}
+section.partner.purple .partnerBox a.btn.btn-contact {
+  background: #24beed;
+  margin: 0 auto;
+  font-weight: 600;
+}
+/* partner section End */
+
+/* Sap Start */
+section.sap {
+}
+
+section.sap .heroDv {
+}
+
+section.sap .heroDv figure {
+}
+
+section.sap .heroDv figure img {
+  width: 100%;
+}
+/* Sap End */

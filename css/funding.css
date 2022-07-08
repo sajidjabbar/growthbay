@@ -1,0 +1,285 @@
+section.hero.funding {
+  background: url(../images/hero-funding-img.jpg);
+  background-size: cover;
+}
+
+/* Powerful Start */
+section.powerful {
+  padding: 80px 0;
+}
+section.powerful .inbox {
+}
+section.powerful .inbox figure {
+  margin: 0;
+}
+section.powerful .inbox figure img {
+  width: 100%;
+}
+section.powerful .inbox h4 {
+  font-size: 24px;
+  color: #000;
+  line-height: 1.4;
+}
+
+section.powerful .content {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+section.powerful .content h3 {
+  font-size: 24px;
+  color: #000;
+  line-height: 1.4;
+  margin: 0 0 10px;
+}
+section.powerful .content p {
+  font-size: 14px;
+  color: #000;
+  margin: 0 0 15px;
+  font-weight: 500;
+}
+section.powerful .content a.btn.btn-request {
+  background: #24beed;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 0px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 0;
+  text-transform: uppercase;
+  padding: 12px 20px;
+  font-weight: bold;
+}
+/* Powerful End */
+
+/* Funding Portfolio Start */
+section.fundingPortfolio {
+}
+section.fundingPortfolio h3 {
+  font-size: 24px;
+  color: #000;
+  line-height: 1.4;
+  text-align: center;
+  margin: 0 0 20px;
+}
+section.fundingPortfolio .inBox {
+  background: #000;
+}
+section.fundingPortfolio .inBox .tabsList {
+  border-bottom: 2px solid #fff;
+}
+
+section.fundingPortfolio ul.nav-tabs {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 0px;
+}
+section.fundingPortfolio ul.nav-tabs li.nav-item {
+}
+section.fundingPortfolio ul.nav-tabs li.nav-item a.nav-link {
+  color: #fff;
+  background: transparent;
+  border: 0px;
+  padding: 0 15px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+section.fundingPortfolio .tabsBox .tab-content {
+}
+section.fundingPortfolio .tabsBox .tab-content .tab-pane {
+}
+section.fundingPortfolio .tabsBox .tab-content .tab-pane .tabFull {
+  padding: 30px;
+}
+section.fundingPortfolio .tabsBox .tab-content .tab-pane .tabFull h4 {
+  font-size: 24px;
+  color: #fff;
+  line-height: 1.4;
+  text-align: center;
+  margin: 0 0 30px;
+}
+section.fundingPortfolio .tabsBox .tab-content .tab-pane .tabFull figure {
+  margin: 0 0 30px;
+}
+section.fundingPortfolio .tabsBox .tab-content .tab-pane .tabFull figure img {
+  width: 100%;
+}
+section.fundingPortfolio .inBox.random {
+  background: #fff;
+  border-bottom: 1px solid #000;
+}
+section.fundingPortfolio .inBox.random .tabsList {
+  border-bottom: 2px solid #000;
+}
+section.fundingPortfolio
+  .inBox.random
+  .tabsList
+  ul.nav-tabs
+  li.nav-item
+  a.nav-link {
+  color: #000;
+}
+section.fundingPortfolio
+  .inBox.random
+  .tabsBox
+  .tab-content
+  .tab-pane
+  .tabFull
+  h4 {
+  color: #000;
+  margin: 0;
+}
+/* Funding Portfolio End */
+
+/* Feature Section Start */
+section.feature {
+  padding: 80px 0;
+}
+section.feature h3 {
+  font-size: 24px;
+  text-align: center;
+  margin: 0 0 30px;
+  font-weight: 600;
+}
+section.feature .content h3 {
+  text-align: left;
+  color: #000;
+  margin: 0 0 15px;
+}
+section.feature .content p {
+  color: #000;
+  font-size: 15px;
+  font-weight: 500;
+}
+section.feature .leftBox {
+}
+section.feature .leftBox figure {
+  margin: 0;
+}
+section.feature .leftBox figure img {
+  width: 100%;
+}
+
+section.feature .content {
+  padding: 40px 0;
+}
+section.feature .content ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+section.feature .content ul li {
+  font-family: "Barlow";
+  font-weight: 500;
+  margin: 0 0 10px 20px;
+}
+section.feature .content ul li:before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  background: #000;
+  display: block;
+  position: absolute;
+  margin-left: -20px;
+  margin-top: 8px;
+  border-radius: 50%;
+}
+
+section.feature .content h4 {
+  color: #24beed;
+  margin: 30px 0 0;
+  font-weight: 500;
+  font-size: 26px;
+}
+/* Feature Section End */
+
+/* Terms Loan Start */
+section.termLoan {
+  padding: 60px 0;
+}
+
+section.termLoan h3 {
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+  margin: 0 0 10px;
+  font-weight: 600;
+}
+
+section.termLoan h4 {
+  font-size: 24px;
+  color: #24beed;
+  text-align: center;
+  margin: 0 0 30px;
+  font-weight: 600;
+}
+
+section.termLoan p {
+  font-size: 16px;
+  color: #000;
+  text-align: center;
+  margin: 0 0 30px;
+  font-weight: normal;
+}
+
+section.termLoan .termBox {
+}
+
+section.termLoan .termBox .imgBox {
+  display: flex;
+  justify-content: center;
+}
+
+section.termLoan .termBox .content {
+}
+
+section.termLoan .termBox .imgBox figure {
+}
+
+section.termLoan .termBox .imgBox figure img {
+}
+
+section.termLoan .grayBox {
+  background: #f7f7f7;
+  padding: 60px 50px 25px;
+}
+
+section.termLoan .grayBox {
+}
+
+section.termLoan .grayBox .boxWithIco {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin: 0 0 35px;
+}
+
+section.termLoan .grayBox .boxWithIco .icoImg {
+  width: 40px;
+}
+
+section.termLoan .grayBox .boxWithIco .icoImg figure {
+}
+
+section.termLoan .grayBox .boxWithIco .icoImg figure img {
+}
+
+section.termLoan .grayBox .boxWithIco .content {
+  width: 85%;
+}
+
+section.termLoan .grayBox .boxWithIco .content h4 {
+  text-align: left;
+  color: #000;
+  font-size: 18px;
+  margin: 0;
+}
+
+section.termLoan .grayBox .boxWithIco .content p {
+  font-size: 16px;
+  color: #24beed;
+  text-align: left;
+  margin: 0;
+}
+/* Terms Loan End */

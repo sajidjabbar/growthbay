@@ -1,0 +1,1458 @@
+body {
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  font-family: "Barlow", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Topbar Start */
+.topbar {
+  padding: 10px 0;
+}
+.topbar .finderBox {
+  display: flex;
+  justify-content: flex-end;
+}
+.topbar .finderBox .listIco {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.topbar .finderBox .listIco a.listItem {
+  margin-left: 15px;
+  text-decoration: none;
+}
+.topbar .finderBox .listIco a.listItem img {
+  width: 100%;
+}
+/* Topbar End */
+
+/* Header Start */
+header#top {
+  background: #fff;
+  padding: 15px 0;
+}
+header#top .container {
+  display: flex;
+  justify-content: space-between;
+}
+header#top .logo {
+  display: flex;
+  align-items: center;
+}
+
+header#top .navBarDv {
+  margin-left: 0%;
+  width: 60%;
+}
+header#top .navBarDv ul.mainNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  height: 100%;
+}
+header#top .navBarDv ul.mainNav li {
+}
+header#top .navBarDv ul.mainNav li a {
+  margin: 0;
+  font-size: 13px;
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+header#top .infoBtns {
+}
+header#top .infoBtns .btngroups {
+}
+header#top .infoBtns .btngroups a.btn.btn-theme.blue {
+  border-color: #24beed;
+  text-transform: uppercase;
+}
+header#top .infoBtns .btngroups a.btn.btn-theme {
+  color: #000;
+  border: 1px solid #000;
+  border-radius: 0px;
+  font-size: 13px;
+  box-shadow: 0 0 0;
+}
+header#top .infoBtns .btngroups a.btn.btn-theme span.beforeIcon {
+  margin-right: 4px;
+}
+header#top .infoBtns .btngroups a.btn.btn-theme span.beforeIcon img {
+  width: 10px;
+  position: relative;
+  top: -2px;
+}
+/* Header End */
+
+/* Header Bar Top */
+.headerBar {
+  background: #24beed;
+  padding: 15px 0;
+}
+.headerBar h4 {
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+/* Header Bar End */
+
+/* Hero Start */
+section.hero {
+  background: url(../images/hero-img.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 100px 0;
+}
+section.hero.home {
+  background: url(../images/hero-home-img1.jpg);
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+section.hero .container {
+}
+section.hero .content {
+}
+section.hero .content h3 {
+  font-size: 35px;
+  font-weight: 400;
+  margin: 0 0 30px;
+}
+section.hero .content p {
+  font-size: 18px;
+  margin: 0 0 15px;
+}
+section.hero .content a.btn.btn-heroLink {
+  background: #24beed;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 0px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 0;
+  text-transform: uppercase;
+  padding: 12px 20px;
+  font-weight: bold;
+}
+section.hero .content p.small {
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+/* Hero End */
+
+/* Our Vision Start */
+section.vision {
+  background: url(../images/vision-hero-img.jpg);
+  background-size: cover;
+  height: 500px;
+}
+section.vision .container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section.vision .boxAlign .inBox h4 {
+  color: #24beed;
+  font-size: 34px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+section.vision .boxAlign .inBox h5 {
+  color: #000;
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+section.vision .boxAlign .inBox p {
+  color: #000;
+  font-size: 18px;
+  font-weight: normal;
+}
+/* Our Vision End */
+
+/* Our Mission Start */
+section.mision {
+  background: url(../images/mision-hero-img.jpg);
+  background-size: cover;
+  height: 500px;
+}
+section.mision .container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section.mision .boxAlign .inBox h4 {
+  color: #24beed;
+  font-size: 34px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+section.mision .boxAlign .inBox h5 {
+  color: #000;
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+section.mision .boxAlign .inBox p {
+  color: #000;
+  font-size: 18px;
+  font-weight: normal;
+}
+/* Our Mission End */
+
+/* History Start */
+section.history {
+  background: url(../images/history-hero-img.jpg);
+  background-size: cover;
+  padding: 60px 0;
+}
+section.history .inbox {
+}
+section.history .inbox h4 {
+  font-size: 26px;
+  color: #fff;
+  font-weight: 600;
+  text-align: center;
+  margin: 0 0 15px;
+}
+section.history .inbox p {
+  font-size: 18px;
+  color: #fff;
+  font-weight: normal;
+  text-align: center;
+  margin: 0 0 15px;
+  line-height: 1.4;
+}
+section.history .inbox .historyBox {
+  margin: 80px 0 50px;
+  padding-left: 13%;
+}
+section.history .inbox .historyBox ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section.history .inbox .historyBox ul li {
+  border-top: 1px solid #fff;
+  padding: 0;
+  width: 170px;
+}
+section.history .inbox .historyBox ul li:before {
+  content: "";
+  width: 19px;
+  height: 19px;
+  background: #24beed;
+  display: block;
+  border-radius: 50%;
+  margin: -11px 0 0 -9px;
+}
+section.history .inbox .historyBox ul li h6 {
+  position: relative;
+  color: #fff;
+  margin-top: -50px;
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  font-weight: normal;
+  margin-left: -85px;
+  width: 170px;
+}
+section.history .inbox .historyBox ul li p {
+  margin-top: 50px;
+  font-size: 15px;
+  margin-left: -85px;
+  width: 170px;
+}
+section.history .inbox .historyBox ul li:last-child {
+  border: 0;
+}
+section.history .inbox a.btn.btn-requote {
+  background: transparent;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 0px;
+  box-shadow: 0 0 0;
+  text-transform: uppercase;
+  padding: 15px 20px;
+  font-weight: 600;
+  border: 1px solid #fff;
+  margin: 0 auto;
+  display: block;
+  width: 180px;
+}
+/* History End */
+
+/* See Location Start */
+section.location {
+  background: #f5f5f5;
+  padding: 60px 0 60px;
+}
+section.location.bgWhite {
+  background: #fff;
+}
+section.location.bgWhite .boxTop h3 {
+  text-align: center;
+  margin: 0 0 10px;
+  font-size: 24px;
+  font-weight: 600;
+}
+section.location .boxTop {
+  margin-bottom: 0px;
+}
+section.location .boxTop h4 {
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+  margin: 0 0 20px;
+  font-weight: 600;
+}
+section.location .boxTop h5 {
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+  margin: 0 0 30px;
+  font-weight: 500;
+}
+section.location .boxTop p {
+  font-size: 18px;
+  color: #000;
+  text-align: center;
+  margin: 0 0 30px;
+  font-weight: normal;
+}
+section.location .boxTop a.btn.btn-contact {
+  background: #24beed;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 0px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 0 auto;
+  width: 150px;
+  display: block;
+  height: 50px;
+  line-height: 2.3;
+}
+
+section.location .inbox {
+}
+section.location .inbox .serBox {
+  width: 100%;
+  text-align: center;
+}
+section.location .inbox .serBox figure {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 30px;
+}
+section.location .inbox .serBox figure img {
+  width: 100%;
+}
+section.location .inbox .serBox h4 {
+  font-size: 20px;
+  color: #000;
+  font-weight: 600;
+  margin: 0 0 20px;
+}
+section.location .inbox .serBox p {
+  color: #000;
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: normal;
+}
+/* See Location End */
+
+/* Quote Start */
+section.quote {
+  background: #f2f5f5;
+  padding: 60px 0;
+}
+section.quote.white {
+  background: #fff;
+}
+section.quote .topImg {
+  width: 100%;
+  text-align: center;
+  margin: 0 0 20px;
+}
+section.quote .topImg img {
+  width: 70px;
+  transform: skew(-20deg);
+}
+section.quote h3 {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 15px;
+  color: #000;
+}
+section.quote p {
+  font-size: 19px;
+  text-align: center;
+  margin: 0 0 15px;
+  color: #000;
+  padding: 0 10%;
+  font-weight: 400;
+}
+section.quote p.note {
+  font-size: 15px;
+  text-align: center;
+  margin: 0 0 25px;
+  color: #000;
+  padding: 0 10%;
+  font-weight: normal;
+}
+section.quote a.btn.btn-quote {
+  background: #24beed;
+  font-size: 15px;
+  color: #fff;
+  border-radius: 0;
+  padding: 10px 20px;
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+
+section.quote.bgWhite {
+  background: #fff;
+}
+section.quote.bgWhite a.btn.btn-quote {
+  background: #24beed;
+}
+/* Quote End */
+
+/* GrowthBay Start */
+section.GrowthBay {
+  padding: 60px 0;
+  background-color: #f5f5f5;
+}
+section.GrowthBay h3 {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 30px;
+  color: #000;
+}
+section.GrowthBay .gbBox {
+  margin: 20px 0;
+  background: #000;
+  overflow: hidden;
+  border-radius: 4px;
+}
+section.GrowthBay .gbBox .top {
+  display: none;
+}
+section.GrowthBay .gbBox.new .top {
+  position: absolute;
+  right: 0;
+  background: #e40046;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin-top: -26px;
+  margin-right: -10px;
+}
+section.GrowthBay .gbBox.new .top p {
+  font-size: 14px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+section.GrowthBay .gbBox .gbImg {
+  height: 200px;
+  overflow: hidden;
+}
+section.GrowthBay .gbBox .gbImg figure {
+  width: 100%;
+  margin: 0;
+  object-fit: fill;
+}
+section.GrowthBay .gbBox .gbImg figure img {
+  width: auto;
+  height: 100%;
+}
+
+section.GrowthBay .gbBox .gbBtnBox {
+  position: absolute;
+  margin-top: -20px;
+  padding: 0 20px;
+}
+section.GrowthBay .gbBox .gbBtnBox a.btn.btngbLink {
+  height: 34px;
+  background: #20bf55;
+  border-radius: 35px;
+  color: #fff;
+  font-size: 14px;
+  padding: 0 30px;
+  line-height: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+section.GrowthBay .gbBox .gbBtnBox a.btn.btngbLink.orange {
+  background: #de6f34;
+}
+section.GrowthBay .gbBox .gbBtnBox a.btn.btngbLink.purple {
+  background: #7b45c7;
+}
+
+section.GrowthBay .gbBox .gbContent {
+  padding: 40px 30px;
+}
+section.GrowthBay .gbBox .gbContent h4 {
+  font-size: 16px;
+  color: #fff;
+  padding: 0;
+  margin: 0;
+  height: 60px;
+  overflow: hidden;
+  font-weight: normal;
+}
+section.GrowthBay .gbBox .gbContent a.watchNow {
+  font-size: 15px;
+  color: #fff;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+section.GrowthBay p.textBottom {
+  font-size: 19px;
+  text-align: center;
+  margin: 0 0 15px;
+  color: #000;
+  padding: 0 10%;
+  font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+}
+
+section.GrowthBay.bgWhite {
+  background: #fff;
+}
+/* GrowthBay End */
+
+/* Connect Start */
+section.connect {
+  background: url(../images/connect-bg.jpg);
+  background-size: cover;
+  padding: 90px 0;
+}
+section.connect h3 {
+  font-size: 26px;
+  color: #fff;
+  font-weight: normal;
+  margin: 0 0 40px;
+}
+section.connect a.btn.btn-connect {
+  border: 1px solid #fff;
+  padding: 10px 15px;
+  border-radius: 0;
+  color: #fff;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+section.connect .cnBox {
+  text-align: center;
+}
+section.connect .cnBox .icoBox {
+  margin: 0 0 20px;
+}
+section.connect .cnBox .icoBox img {
+}
+section.connect .cnBox h4 {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 400;
+  line-height: 1.4;
+}
+/* Connect End */
+
+/* How It Works Start */
+section.howWorks {
+  padding: 60px 0;
+}
+section.howWorks h3 {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 30px;
+  color: #000;
+}
+section.howWorks .infoBox {
+  box-shadow: 0px 0px 15px 1px #cccccc45;
+  border-radius: 5px;
+  border: 1px solid #cccccc80;
+  padding: 15px;
+}
+section.howWorks .infoBox .count {
+  margin: 0 0 15px;
+}
+section.howWorks .infoBox .count h2 {
+  font-size: 18px;
+  color: #24beed;
+  font-weight: bold;
+  line-height: 1.4;
+  text-align: center;
+}
+
+section.howWorks .infoBox .title {
+  margin: 0 0 15px;
+}
+section.howWorks .infoBox .title h3 {
+  font-size: 15px;
+  height: 50px;
+  overflow: hidden;
+  margin: 0;
+}
+
+section.howWorks .infoBox .imagBox {
+  margin: 0 0 15px;
+}
+section.howWorks .infoBox .imagBox figure {
+  margin: 0;
+}
+section.howWorks .infoBox .imagBox figure svg {
+  width: 100%;
+  height: 50px;
+}
+
+section.howWorks .infoBox .desc {
+}
+section.howWorks .infoBox .desc p {
+  font-size: 14px;
+  color: #000;
+  text-align: center;
+  height: 85px;
+  overflow: hidden;
+}
+/* How It Works End */
+
+/* Pre-Qualification Start */
+section.pre-qualification {
+  padding: 60px 0;
+}
+section.pre-qualification h3 {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 30px;
+  color: #000;
+}
+section.pre-qualification .preBox {
+  margin: 0 0 30px;
+  padding: 30px 0;
+  background: #24beed;
+  border-radius: 3px;
+}
+section.pre-qualification .preBox .icoBox {
+  margin: 0 0 15px;
+}
+section.pre-qualification .preBox .icoBox figure {
+  margin: 0;
+}
+section.pre-qualification .preBox .icoBox figure svg {
+  width: 100%;
+  height: 50px;
+}
+section.pre-qualification .preBox hr {
+  border: 1px solid #fff;
+  width: 40%;
+  margin: 0 auto 15px;
+}
+section.pre-qualification .preBox p {
+  font-size: 14px;
+  color: #fff;
+  text-align: center;
+  overflow: hidden;
+  padding: 0 15px;
+  font-weight: 500;
+}
+/* Pre-Qualification End */
+
+/* Focus Start */
+section.focus {
+  padding: 60px 0;
+}
+section.focus .focus-box {
+}
+section.focus .focus-box .icoBox {
+}
+section.focus .focus-box .icoBox figure {
+  text-align: center;
+}
+section.focus .focus-box .icoBox figure img {
+  height: 100px;
+  width: auto;
+}
+section.focus .focus-box h4 {
+  font-size: 18px;
+  text-align: center;
+  margin: 0 0 10px;
+  color: #000;
+  padding: 0 20px;
+}
+/* Focus End */
+
+/* Good Company Start */
+section.goodCompany {
+  background: #f2f5f5;
+  padding: 60px 0;
+}
+section.goodCompany h3 {
+  font-size: 22px;
+  text-align: center;
+  margin: 0 0 15px;
+}
+section.goodCompany p {
+  font-size: 15px;
+  color: #000;
+  text-align: center;
+  margin: 0;
+}
+section.goodCompany ul.nav-tabs {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 40px 0 0px;
+  border: 0;
+}
+section.goodCompany ul.nav-tabs li.nav-item {
+  width: 20%;
+}
+section.goodCompany ul.nav-tabs li.nav-item a.nav-link {
+  padding: 15px 0;
+  border: 0;
+  background: transparent;
+  color: #000;
+  opacity: 0.5;
+  font-weight: 500;
+  font-size: 18px;
+  border-bottom: 5px solid transparent;
+  text-align: center;
+}
+section.goodCompany ul.nav-tabs li.nav-item a.nav-link.active {
+  opacity: 1;
+  font-weight: bold;
+  border-bottom: 5px solid #f85e32;
+}
+
+section.goodCompany .tab-content {
+}
+section.goodCompany .tab-content .tab-pane {
+  padding: 0;
+}
+section.goodCompany .tab-content .tab-pane .contentBox {
+}
+section.goodCompany .tab-content .tab-pane .contentBox figure {
+  margin: 0;
+}
+section.goodCompany .tab-content .tab-pane .contentBox figure img {
+  width: 100%;
+}
+/* Good Company End */
+
+/* Partner Start */
+section.partner {
+  padding: 70px 0;
+}
+section.partner .partnerBox {
+  margin: 0 0 50px;
+}
+section.partner .partnerBox h3 {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 10px;
+  color: #000;
+}
+section.partner .partnerBox p {
+  font-size: 20px;
+  text-align: center;
+  margin: 0 0 35px;
+  color: #000;
+  font-weight: normal;
+}
+section.partner .partnerBox a.btn.btn-contact {
+  background: #20bf55;
+  font-size: 15px;
+  color: #fff;
+  border-radius: 0;
+  padding: 10px 20px;
+  margin: 0 auto;
+  display: block;
+  width: 140px;
+}
+
+section.partner .pbBox {
+}
+section.partner .pbBox .leftBox {
+  margin: 0 0 40px;
+}
+section.partner .pbBox .leftBox h4 {
+  font-size: 40px;
+  color: #000;
+}
+section.partner .pbBox .leftBox h4:after {
+  content: "";
+  width: 30px;
+  height: 5px;
+  background: #20bf55;
+  position: relative;
+  display: block;
+  margin: 10px 0 10px;
+}
+section.partner .pbBox .leftBox p {
+  font-size: 15px;
+  color: #000;
+}
+
+section.partner .pbBox .rightBox {
+}
+section.partner .pbBox .rightBox img {
+  width: 100%;
+}
+/* Partner End */
+
+/* IDS Group Start */
+section.idsGroup {
+  background: #f5f5f5;
+  padding: 60px 0;
+}
+section.idsGroup .idsContent {
+  margin: 0 0 50px;
+}
+section.idsGroup .idsContent h3 {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 10px;
+  color: #000;
+}
+section.idsGroup .idsContent p {
+  font-size: 20px;
+  text-align: center;
+  margin: 0 0 35px;
+  color: #000;
+  font-weight: normal;
+}
+section.idsGroup .idsContent a.btn.btn-explore {
+  background: #20bf55;
+  font-size: 15px;
+  color: #fff;
+  border-radius: 0;
+  padding: 10px 20px;
+  margin: 0 auto;
+  display: block;
+  width: 240px;
+  font-weight: bold;
+}
+
+section.idsGroup .single .slick-list .slick-track .slick-slide img {
+  width: 100%;
+}
+/* IDS Group End */
+
+/* Request Modal Start */
+div#requestModal {
+}
+div#requestModal .modal-dialog {
+  max-width: 700px;
+  box-shadow: 0px 0px 15px 0px #fff;
+}
+div#requestModal .modal-dialog .modal-content {
+  padding: 20px 30px;
+}
+div#requestModal .modal-dialog .modal-content .modal-header {
+}
+div#requestModal .modal-dialog .modal-content .modal-header h4.modal-title {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 10px;
+  color: #000;
+}
+div#requestModal .modal-dialog .modal-content .modal-header button.close {
+  color: #000;
+  opacity: 1;
+  font-size: 30px;
+  position: relative;
+  top: -8px;
+}
+
+div#requestModal .modal-dialog .modal-content .modal-body {
+}
+div#requestModal .modal-dialog .modal-content .modal-body form {
+}
+div#requestModal .modal-dialog .modal-content .modal-body form .form-group {
+}
+div#requestModal
+  .modal-dialog
+  .modal-content
+  .modal-body
+  form
+  .form-group
+  label {
+  width: 100%;
+  font-size: 18px;
+  color: #000;
+}
+div#requestModal
+  .modal-dialog
+  .modal-content
+  .modal-body
+  form
+  .form-group
+  input {
+  width: 100%;
+  height: 50px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: 0;
+  padding: 0 15px;
+}
+div#requestModal
+  .modal-dialog
+  .modal-content
+  .modal-body
+  form
+  .form-group
+  textarea {
+  width: 100%;
+  height: 100px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: 0;
+  padding: 0 15px;
+}
+
+div#requestModal
+  .modal-dialog
+  .modal-content
+  .modal-body
+  form
+  button.btn.btn-mod-submit {
+  width: 160px;
+  background: #24beed;
+  font-size: 18px;
+  color: #fff;
+  height: 50px;
+  padding: 0 20px;
+  font-weight: bold;
+}
+.confiText h4 {
+  font-size: 11px;
+  margin: 5px 0;
+}
+.confiText h4 span.orange {
+  color: #de6f34;
+}
+/* Request Modal End */
+
+/* Fix Appointment Modal STart */
+div#appointmentModal {
+}
+
+div#appointmentModal .modal-header {
+}
+
+div#appointmentModal .modal-header h4.modal-title {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 10px;
+  color: #000;
+}
+
+div#appointmentModal .modal-header button.close {
+  color: #000;
+  opacity: 1;
+  font-size: 30px;
+  position: relative;
+  top: -8px;
+}
+
+div#appointmentModal .modal-dialog {
+  max-width: 700px;
+  box-shadow: 0px 0px 15px 0px #fff;
+}
+
+div#appointmentModal .modal-dialog .modal-content {
+  padding: 20px 30px;
+}
+
+div#appointmentModal .modal-dialog .modal-content .modal-body {
+}
+
+div#appointmentModal .modal-dialog .modal-content .modal-body form {
+}
+
+div#appointmentModal .modal-dialog .modal-content .modal-body form .form-group {
+}
+
+div#appointmentModal
+  .modal-dialog
+  .modal-content
+  .modal-body
+  form
+  .form-group
+  label {
+  width: 100%;
+  font-size: 18px;
+  color: #000;
+}
+
+div#appointmentModal
+  .modal-dialog
+  .modal-content
+  .modal-body
+  form
+  .form-group
+  input {
+  width: 100%;
+  height: 50px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: 0;
+  padding: 0 15px;
+}
+
+div#appointmentModal
+  .modal-dialog
+  .modal-content
+  .modal-body
+  form
+  .form-group
+  button.btn.btn-mod-submit {
+}
+
+div#appointmentModal
+  .modal-dialog
+  .modal-content
+  .modal-body
+  form
+  button.btn.btn-mod-submit {
+  width: 160px;
+  background: #24beed;
+  font-size: 18px;
+  color: #fff;
+  height: 50px;
+  padding: 0 20px;
+  font-weight: bold;
+}
+/* Fix Appointment Modal STart */
+
+/* Logos Company Start */
+section.logosComp {
+  padding: 70px 0;
+}
+section.logosComp h3 {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 30px;
+  color: #000;
+}
+section.logosComp .company {
+  margin: 60px 0;
+}
+
+section.logosComp .company button.slick-arrow {
+  display: none;
+}
+section.logosComp .company .slick-list .slick-track .slick-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section.logosComp .company .slick-list .slick-track .slick-slide div img {
+  width: 100%;
+}
+section.logosComp a.btn.btn-logos {
+  background: #24beed;
+  font-size: 15px;
+  color: #fff;
+  border-radius: 2px;
+  padding: 10px 20px;
+  margin: 0 auto;
+  width: 240px;
+  font-weight: bold;
+  height: 55px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Logos Company End */
+
+/* Trusted Leading Start */
+section.leading {
+  padding: 0 0 70px;
+}
+
+section.leading h3 {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 50px;
+  color: #000;
+}
+
+section.leading .boxTl {
+}
+
+section.leading .boxTl h4 {
+  font-size: 20px;
+  color: #000;
+  font-weight: 600;
+  margin: 0 0 20px;
+  text-align: center;
+}
+
+section.leading a.btn.btn-view {
+  background: #24beed;
+  font-size: 15px;
+  color: #fff;
+  border-radius: 2px;
+  padding: 10px 20px;
+  margin: 30px auto 0;
+  width: 240px;
+  font-weight: bold;
+  height: 55px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Trusted Leading Start */
+
+/* Worth Start */
+section.worth {
+  background: #101417;
+}
+section.worth .blue {
+  background: #24beed;
+}
+section.worth .worthBox .wFlex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+section.worth .worthBox .wFlex h4 {
+  font-size: 22px;
+  color: #fff;
+}
+section.worth .worthBox .wFlex hr.dvdr {
+  background: #fff;
+  opacity: 0.5;
+  margin: 10px 0 5px;
+}
+section.worth .worthBox .wFlex p {
+  font-size: 16px;
+  color: #fff;
+  width: 230px;
+  height: auto;
+  overflow: hidden;
+}
+
+section.worth .worthBox .wFlex figure {
+  padding: 0 15px;
+  margin: 0;
+}
+section.worth .worthBox .wFlex figure img {
+  width: 100%;
+}
+section.worth .worthBox {
+  padding: 40px 0;
+}
+/* Worth End */
+
+/* Insights Start */
+section.insight {
+  background: #000;
+  padding: 90px 0;
+}
+section.insight .insightBox {
+  background: #fff;
+  border: 1px solid #fff;
+}
+section.insight .insightBox .imgBox {
+  overflow: hidden;
+  height: 170px;
+}
+section.insight .insightBox .imgBox figure {
+  object-fit: fill;
+}
+section.insight .insightBox .imgBox figure img {
+  width: 100%;
+  height: 100%;
+}
+
+section.insight .insightBox .contentBox {
+  height: 300px;
+}
+section.insight .insightBox .contentBox h3 {
+  padding: 20px;
+  font-size: 28px;
+  color: #000;
+  font-weight: normal;
+  line-height: 1.4;
+  height: 280px;
+}
+section.insight .insightBox .contentBox h4 {
+  background: #f7f9f9;
+  font-size: 11px;
+  padding: 5px 20px;
+  height: 22px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  bottom: 20px;
+  margin: 0;
+}
+section.insight a.btn.btn-insights {
+  background: #7b45c7;
+  font-size: 15px;
+  color: #fff;
+  border-radius: 0;
+  padding: 10px 20px;
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  margin-top: 40px;
+}
+/* Insights End */
+
+/* Footer Start */
+footer.footerDV {
+  padding: 80px 0 50px;
+  background: #040404;
+}
+footer.footerDV .explore {
+}
+footer.footerDV :is(.explore, .sales, .support, .getinTouch) h4 {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 0 0 30px;
+}
+footer.footerDV .explore ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+footer.footerDV .explore ul li {
+}
+footer.footerDV .explore ul li a {
+  font-size: 15px;
+  margin: 0;
+  text-decoration: underline;
+  color: #fff;
+}
+.getinTouch .form-control {
+  background-color: transparent !important;
+  border-bottom: 1px solid;
+}
+.getinTouch button.btn.btn-primary {
+  background-color: #24beed;
+  width: 100%;
+}
+.socialFooter ul li a i {
+  background-color: #707070;
+  padding: 8px 10px;
+  border-radius: 50%;
+  width: 34px;
+}
+footer.footerDV :is(.sales, .support, .getinTouch) .address {
+  margin: 0 0 16px;
+}
+footer.footerDV :is(.sales, .support, .getinTouch) .address h5 {
+  font-size: 13px;
+  color: #fff;
+  margin: 0 0 5px;
+}
+footer.footerDV :is(.sales, .support, .getinTouch) .address p {
+  font-size: 18px;
+  color: #fff;
+  margin: 0;
+}
+footer.footerDV :is(.sales, .support, .getinTouch) .address p span {
+  text-decoration: underline;
+}
+footer.footerDV :is(.sales, .support, .getinTouch) .address p a {
+  text-decoration: underline;
+  color: #fff;
+  font-size: 14px;
+}
+
+footer.footerDV .getinTouch .address .socialFooter {
+}
+footer.footerDV .getinTouch .address .socialFooter ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 90%;
+}
+footer.footerDV .getinTouch .address .socialFooter ul li {
+}
+footer.footerDV .getinTouch .address .socialFooter ul li a {
+  color: #fff;
+  font-size: 48px;
+}
+
+footer.footerDV .getinTouch .address .appBtns {
+  display: flex;
+  justify-content: center;
+  background: #000;
+  padding: 4px;
+}
+footer.footerDV .getinTouch .address .appBtns .btngroups {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+footer.footerDV .getinTouch .address .appBtns .btngroups a {
+  width: 48%;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+footer.footerDV .getinTouch .address .appBtns .btngroups a img {
+  width: 100%;
+}
+/* Footer End */
+
+/* Footer Bottom Start */
+.footerBottom {
+  padding: 40px 0;
+  background: url(../images/footer-bg.jpg);
+  background-repeat: repeat;
+  background-position: center;
+}
+.footerBottom .termsPages {
+  margin: 0 0 30px;
+}
+.footerBottom .termsPages ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footerBottom .termsPages ul li {
+  margin: 0 15px;
+}
+.footerBottom .termsPages ul li a {
+  font-size: 16px;
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footerBottom .content {
+}
+.footerBottom .content p {
+  font-size: 14px;
+  color: #fff;
+  font-weight: normal;
+}
+
+.footerBottom .rightLogoBottom {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  height: 100%;
+}
+.footerBottom .rightLogoBottom .logside {
+}
+.footerBottom .rightLogoBottom .logside a.bootomLogo {
+  text-decoration: none;
+}
+.footerBottom .rightLogoBottom .logside a.bootomLogo img {
+}
+.footerBottom .rightLogoBottom .logside p {
+  color: #fff;
+  font-size: 14px;
+  margin-top: 15px;
+  text-transform: uppercase;
+}
+.socialFooter ul {
+  display: flex;
+  list-style: none;
+  padding-left: 0px;
+  padding-top: 20px;
+}
+.footer-logo p {
+  font-size: 15px;
+  color: #ffffff;
+  padding-top: 30px;
+}
+
+.socialFooter ul li a {
+  color: #fff;
+  margin-right: 30px;
+}
+/* Footer Bottom End */
+div#login .modal-dialog .modal-content {
+  padding: 20px 30px;
+}
+div#login .modal-dialog {
+  max-width: 700px;
+  box-shadow: 0px 0px 15px 0px #fff;
+}
+div#login .modal-dialog .modal-content .modal-header h4.modal-title {
+  font-size: 27px;
+  text-align: center;
+  margin: 0 0 10px;
+  color: #000;
+}
+div#login .modal-dialog .modal-content .modal-header button.close {
+  color: #000;
+  opacity: 1;
+  font-size: 30px;
+  position: relative;
+  top: -8px;
+}
+#login .btn-primary{
+width: 160px;
+background: #24beed;
+font-size: 18px;
+color: #fff;
+height: 50px;
+padding: 0 20px;
+font-weight: bold;
+border: #24beed;
+}
+a:hover{
+  text-decoration: none;
+
+}
+
+.pr-color{
+background-color: #24beed;
+}

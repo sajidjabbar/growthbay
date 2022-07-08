@@ -1,0 +1,272 @@
+section.hero.services {
+  background: url(../images/hero-service-img.jpg);
+  background-size: cover;
+  background-position: right;
+}
+
+section.approach {
+  padding: 80px 0;
+  background: url(../images/hero-approach-img.jpg);
+  background-size: cover;
+  background-position: left;
+}
+section.approach .content {
+}
+section.approach .content .inbox {
+}
+section.approach .content .inbox h4 {
+  font-size: 30px;
+  color: #24beed;
+  margin: 0 0 20px;
+  font-weight: 600;
+}
+section.approach .content .inbox p {
+  font-size: 15px;
+  color: #000;
+  margin: 0 0 30px;
+}
+section.approach .content .inbox a.btn.btn-request {
+  background: #24beed;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 0px;
+  margin-bottom: 0;
+  box-shadow: 0 0 0;
+  text-transform: uppercase;
+  padding: 12px 20px;
+  font-weight: bold;
+}
+
+/* Assesment Section Start */
+section.assessment {
+  padding: 80px 0;
+  background: url(../images/hero-assesment-img.jpg);
+  background-size: cover;
+}
+section.assessment h3 {
+  font-size: 24px;
+  color: #fff;
+  text-align: center;
+  font-weight: 400;
+  margin: 0 0 80px;
+}
+section.assessment .connectBox {
+}
+section.assessment .connectBox figure {
+  display: flex;
+  justify-content: center;
+  height: 110px;
+  align-items: center;
+}
+section.assessment .connectBox figure img {
+  width: auto;
+  height: 65px;
+}
+section.assessment .connectBox h4 {
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  line-height: 1.5;
+}
+
+section.assessment a.btn.btn-self {
+  border: 1px solid #fff;
+  margin: 70px auto 0;
+  font-size: 16px;
+  font-family: "Barlow";
+  color: #fff;
+  border-radius: 0px;
+  padding: 5px 20px;
+  display: table;
+}
+
+/* FAQ Section Start */
+section.faq {
+  padding: 70px 0;
+}
+
+section.faq .faqDv {
+}
+
+section.faq .faqDv .card {
+}
+
+section.faq .faqDv .card .card-header {
+  padding: 0;
+  background: #fff;
+}
+
+section.faq .faqDv .card .card-header button.btn {
+  width: 100%;
+  text-align: left;
+  padding: 15px;
+  outline: 0;
+  box-shadow: 0 0 0;
+  text-decoration: none;
+}
+
+section.faq .faqDv .card .card-header button.btn h5 {
+  font-size: 16px;
+  color: #000;
+}
+
+section.faq .faqDv .card .card-header button.btn:after {
+}
+
+section.faq .faqDv .card .card-header button.btn:after {
+  content: "-";
+  font-size: 30px;
+  position: absolute;
+  right: 15px;
+  margin-top: -29px;
+  color: #000;
+}
+
+section.faq .faqDv .card .card-header button.btn.collapsed:after {
+  content: "+";
+}
+section.faq .faqDv .card .card-body {
+  padding: 15px;
+  font-size: 15px;
+  color: #000;
+}
+
+/* FAQ Section End   */
+
+/* Award Wining Start */
+section.award-winning {
+  padding: 50px 0;
+}
+
+section.award-winning h3 {
+  font-size: 30px;
+  font-weight: 500;
+  margin: 0 0 30px;
+  color: #000;
+  text-align: center;
+}
+
+section.award-winning .mergeBox {
+  margin-bottom: 30px;
+}
+
+section.award-winning .mergeBox .icoBox {
+  text-align: center;
+}
+
+section.award-winning .mergeBox .icoBox figure {
+  margin: 0 0 25px;
+}
+
+section.award-winning .mergeBox .icoBox figure img {
+  width: 30px;
+}
+
+section.award-winning .mergeBox .icoBox h4 {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0 0 30px;
+  color: #000;
+  text-align: center;
+}
+
+section.award-winning .mergeBox .content {
+}
+
+section.award-winning .mergeBox .content p {
+  font-size: 16px;
+  margin: 0 0 20px;
+}
+
+section.award-winning .mergeBox .content ul {
+}
+
+section.award-winning .mergeBox .content ul li {
+  font-size: 16px;
+  font-family: "Barlow", sans-serif;
+  color: #000;
+  margin-bottom: 15px;
+}
+
+section.award-winning .mergeBox .content p a {
+  color: #24beed;
+}
+/* Award Wining End */
+
+/* Get Newsletter Start */
+section.newsletter {
+  background: #f4f4f4;
+  padding: 40px 0 20px;
+}
+
+section.newsletter .newsLbox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+section.newsletter .newsLbox .ico {
+  margin-right: 15px;
+}
+
+section.newsletter .newsLbox .ico figure {
+}
+
+section.newsletter .newsLbox .ico figure img {
+}
+
+section.newsletter .newsLbox h4 {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0 0 30px;
+  color: #000;
+  text-align: left;
+}
+
+section.newsletter form.news {
+}
+
+section.newsletter form.news .form-group.dDown:before {
+  content: "";
+  border-left: 1px solid transparent;
+  border-right: 1px solid #ccc;
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid #ccc;
+  width: 8px;
+  height: 8px;
+  display: block;
+  position: absolute;
+  right: 25px;
+  top: 13px;
+  transform: rotate(45deg);
+}
+
+section.newsletter form.news .form-group :is(input, select) {
+  width: 100%;
+  height: 40px;
+  border: 1px solid #ccc;
+  outline: 0;
+  font-family: "Barlow";
+  font-size: 12px;
+  padding: 0 10px;
+  appearance: none;
+}
+
+section.newsletter form.news .form-group .form-group.dDown {
+}
+
+section.newsletter form.news button.btn.btn-signup {
+  background: #24beed;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 0px;
+  margin-bottom: 0;
+  box-shadow: 0 0 0;
+  text-transform: uppercase;
+  padding: 8px 15px;
+  font-weight: bold;
+  width: 100%;
+  height: 40px;
+  border-radius: 4px;
+}
+/* Get Newsletter End */
