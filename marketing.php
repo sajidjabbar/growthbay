@@ -83,9 +83,12 @@
 				</div>
 
 				<div class="col-md-6">
-					<figure>
+					<!-- <figure>
 						<img src="images/marketing-content-img1.jpg" alt="">
-					</figure>
+					</figure> -->
+					<video  class="img-fluid" controls autoplay muted>
+						<source src="./images/video/marketing.mp4" type="video/mp4">
+					</video>
 				</div>
 			</div>
 		</div>
@@ -176,7 +179,15 @@
 			</div>
 		</div>
 	</section>
-
+	<!-- <section class="video-start pb-4">
+		<div class="container">
+			<div class="video-start">
+				<video  class="img-fluid" controls autoplay muted>
+					<source src="./images/video/marketing.mp4" type="video/mp4">
+				</video>
+			</div>
+		</div>
+	</section> -->
 	<section class="common">
 		<div class="container">
 			<h3>Improve your ROI with productive marketing.</h3>

@@ -65,9 +65,12 @@
 				</div>
 
 				<div class="col-md-6">
-					<figure>
+					<!-- <figure>
 						<img src="images/tech-content-img1.jpg" alt="">
-					</figure>
+					</figure> -->
+					<video  class="img-fluid" controls autoplay muted>
+						<source src="./images/video/technologoy.mp4" type="video/mp4">
+					</video>
 				</div>
 			</div>
 		</div>
@@ -98,7 +101,13 @@
 			</figure>
 		</div>
 	</section>
-
+	<!-- <section class="video-start pb-4">
+		<div class="container">
+			<div class="video-start">
+				
+			</div>
+		</div>
+	</section> -->
 	<section class="servicePro">
 		<div class="container">
 			<div class="row d-none">

@@ -819,7 +819,15 @@
 	</section>
 	
 	
-
+	<section class="video-start py-4">
+		<div class="container">
+			<div class="video-start">
+				<video  class="img-fluid" controls autoplay muted>
+					<source src="./images/video/index.mp4" type="video/mp4">
+				</video>
+			</div>
+		</div>
+	</section>
 	<section class="location bgWhite" style="padding-bottom: 0px;">
 	    <div class="container">
 	        <div class="boxTop">
@@ -878,7 +886,7 @@
 	        </div>
 	    </div>
 	</section>
-
+	
 	<section class="goodCompany">
 	    <div class="container">
 	        <h3>You're in good company.</h3>
@@ -1119,7 +1127,7 @@
 	        </div>
 	    </div>
 	</section>
-
+	
 	<!--
 		<section class="mision d-none">
 			<div class="container">

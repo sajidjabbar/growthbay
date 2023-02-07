@@ -93,9 +93,9 @@
 	        <div class="row">
 	            <div class="col-md-6">
 	                <div class="inbox">
-	                    <figure>
-	                        <img src="images/powerful-img-left.jpg" alt="">
-	                    </figure>
+					<video  class="img-fluid" controls autoplay muted>
+						<source src="./images/video/funding.mp4" type="video/mp4">
+					</video>
 
 	                    <h4 class="d-none">
 	                        A powerful new alternative funding solution to fulfill
@@ -390,7 +390,15 @@
 	        </div>
 	    </div>
 	</section>
-
+	<!-- <section class="video-start">
+		<div class="container">
+			<div class="video-start">
+				<video  class="img-fluid" controls autoplay muted>
+					<source src="./images/video/funding.mp4" type="video/mp4">
+				</video>
+			</div>
+		</div>
+	</section> -->
 	<section class="termLoan">
 	    <div class="container">
 	        <h3>Term Loan limit</h3>
