@@ -110,12 +110,7 @@
 	                        <h3>Fulfill Your Business’s Potential</h3>
 
 	                        <p>
-	                            Growthbay has partnered with CIT®, a leading business banking organization
-	                            with a flawless reputation and a passion for smaller businesses.
-	                            Through our committed team, you gain: Strategic partnerships and
-	                            long-term capital injections from silent investors, Diverse equipment
-	                            financing, Convenient working capital funding, Consulting and guidance
-	                            services. Join the largest finance solution community for small businesses.
+							Growthbay has partnered with reputable private and public organisations with a strong passion and commitment to fund the growth of your business. Whether you want to increase sales, expand your range of products or services, move into new premises, hire more staff, or expand internationally, our team will work with you to deliver desired business growth performance. Growthbay is what you need to take advantage of new opportunities and make your growth ambitions a reality.
 	                        </p>
 
 	                        <p>Watch the short clip and learn more about our new innovations.</p>
@@ -255,7 +250,7 @@
 	            <div class="col-md-6">
 	                <div class="content">
 	                    <h3>
-	                        As professional private funding solutions company, we can assure you that you get:
+						As professional private funding solutions company, we can assure you that you get:
 	                    </h3>
 
 	                    <ul>
@@ -401,14 +396,12 @@
 	</section> -->
 	<section class="termLoan">
 	    <div class="container">
-	        <h3>Term Loan limit</h3>
+	        <h3>Business Funding Partnership</h3>
 
-	        <h4>up to $1 million</h4>
+	        <h4> Up to $5 million</h4>
 
 	        <p>
-	            The GetCapital term Loan is a convenient business finance solution of up
-	            to $1 million to support the growth and expansion of your business. Can be
-	            used for any business pupose for up 3 years.
+			Growthbay funding solutions is a convenient long-term partnership to provide business funding up to $5 million for growth and business expansion.      
 	        </p>
 
 	        <div class="row">
@@ -424,7 +417,7 @@
 
 	                    <div class="content">
 	                        <p>
-	                            Flexible terms up to 3 years
+							Flexible Funding Options; so we make our process short and simple.
 	                        </p>
 	                    </div>
 	                </div>
@@ -444,7 +437,7 @@
 
 	                    <div class="content">
 	                        <p>
-	                            No Property security or financials up to $250k
+	                            NNo Property security or financials; our relationship with you is medium to longterm debt and equity investment.
 	                        </p>
 	                    </div>
 	                </div>
@@ -465,7 +458,7 @@
 
 	                    <div class="content">
 	                        <p>
-	                            Expand and grow your business
+							Leverage Growthbays' business network.
 	                        </p>
 	                    </div>
 	                </div>
