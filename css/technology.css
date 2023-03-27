@@ -244,3 +244,13 @@ section.sap .heroDv figure img {
   width: 100%;
 }
 /* Sap End */
+.appdatacontent{
+  padding: 80px 0px;
+}
+.appdatacontent h5{
+  font-size: 18px;
+}
+.appdatacontent li {
+  font-size: 15px;
+  line-height: 26px;
+}
