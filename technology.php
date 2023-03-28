@@ -480,7 +480,7 @@
 
 	</section>
 
-		<section class="GrowthBay bgWhite d-none">
+	<section class="GrowthBay bgWhite d-none">
 	    <div class="container">
 	        <h3>
 	            What’s new at GrowthBay
@@ -583,19 +583,24 @@
 	    <div class="container">
 
 
-	        <p class="m-0">Growthbay is here to help you achieve strategic growth while inspiring and leading sales teams
+	        <p class="m-0 text-left">Growthbay is here to help you achieve strategic growth while inspiring and leading sales teams
 	            to crush their quotas using the right tech tools. By efficiently Scaling your Revenue Team from proactive
 	            prospecting, deal acceleration, intelligent sales planning, audience creation through the right tech, your
 	            business growth is guaranteed
 	        </p>
 
-	        <h5 class="mb-3 mt-5">Features include:</h5>
-	        -Continuously adapt and respond to the changing digital, technological, and business analytics landscape.
-	        <br><br> -Build strategic road map and scale the necessary changes for a tech enabled business transformation.
-	        <br><br> -Provide the flexibility your business needs to excel across all value-creation levers of the
-	        commercial function.
-	        -Deliver result that will produce new opportunities more readily, serve customers more effectively—and
-	        accelerate business growth.
+	        <h5 class="mb-3 mt-4">Features include:</h5>
+	        <ul class="p-0 pl-3">
+	            <li>Continuously adapt and respond to the changing digital, technological, and business analytics
+	                landscape.</li>
+	            <li>Build strategic road map and scale the necessary changes for a tech enabled business transformation.
+	            </li>
+				<li>Provide the flexibility your business needs to excel across all value-creation levers of the
+	        commercial function.</li>
+			<li>Deliver result that will produce new opportunities more readily, serve customers more effectively—and
+	        accelerate business growth.</li>
+	        </ul>
+	     
 	    </div>
 	</section>
 
@@ -608,36 +613,16 @@
 	                    <div class="content">
 	                        <div class="inBox">
 	                            <h5>
-								Database and Data Management
+	                                Database and Data Management
 	                            </h5>
 
 	                            <ul class="p-0 pl-3 mt-3">
-									<li>Run Data Anywhere</li>
-									<li>Reduce data redundancy</li>
-									<li>Connect and understand data</li>
-									<li>Govern master data</li>
-								</ul>
-								<a href="javascript:void(0)">Explore Database Data Management solution ></a>
-	                        </div>
-	                    </div>
-	                </div>
-	            </div>
-
-				<div class="col-md-3 mb-3">
-	                <div class="spBox">
-	                    <div class="content">
-	                        <div class="inBox">
-	                            <h5>
-								Analytic
-	                            </h5>
-
-	                            <ul class="p-0 pl-3 mt-3">
-									<li>Streamline analytics processes</li>
-									<li>Embed BI and predictive planning</li>
-									<li>Turn insights into action</li>
-									<li>Visualise your decisions </li>
-								</ul>
-								<a href="javascript:void(0)">Explore Analytics solution ></a>
+	                                <li>Run Data Anywhere</li>
+	                                <li>Reduce data redundancy</li>
+	                                <li>Connect and understand data</li>
+	                                <li>Govern master data</li>
+	                            </ul>
+	                            <a href="javascript:void(0)">Explore Database Data Management solution ></a>
 	                        </div>
 	                    </div>
 	                </div>
@@ -648,15 +633,16 @@
 	                    <div class="content">
 	                        <div class="inBox">
 	                            <h5>
-								Application Development and Integration 
+	                                Analytic
 	                            </h5>
 
 	                            <ul class="p-0 pl-3 mt-3">
-									<li>Connect apps, data, and processes</li>
-									<li>Simplify application development</li>
-									<li>Expand with an open ecosystem</li>
-								</ul>
-								<a href="javascript:void(0)">Explore Application Development and Integration solution ></a>
+	                                <li>Streamline analytics processes</li>
+	                                <li>Embed BI and predictive planning</li>
+	                                <li>Turn insights into action</li>
+	                                <li>Visualise your decisions </li>
+	                            </ul>
+	                            <a href="javascript:void(0)">Explore Analytics solution ></a>
 	                        </div>
 	                    </div>
 	                </div>
@@ -667,22 +653,41 @@
 	                    <div class="content">
 	                        <div class="inBox">
 	                            <h5>
-								Intelligent Technologies 
+	                                Application Development and Integration
 	                            </h5>
 
 	                            <ul class="p-0 pl-3 mt-3">
-									<li>Access AI, data-driven cloud apps</li>
-									<li>Embed intelligence into processes</li>
-									<li>Drive end-to-end innovation</li>
-									<li>Scale your platform</li>
-								</ul>
-								<a href="javascript:void(0)">Explore Intelligent Technologies solution ></a>
+	                                <li>Connect apps, data, and processes</li>
+	                                <li>Simplify application development</li>
+	                                <li>Expand with an open ecosystem</li>
+	                            </ul>
+	                            <a href="javascript:void(0)">Explore Application Development and Integration solution ></a>
 	                        </div>
 	                    </div>
 	                </div>
 	            </div>
 
-	         
+	            <div class="col-md-3 mb-3">
+	                <div class="spBox">
+	                    <div class="content">
+	                        <div class="inBox">
+	                            <h5>
+	                                Intelligent Technologies
+	                            </h5>
+
+	                            <ul class="p-0 pl-3 mt-3">
+	                                <li>Access AI, data-driven cloud apps</li>
+	                                <li>Embed intelligence into processes</li>
+	                                <li>Drive end-to-end innovation</li>
+	                                <li>Scale your platform</li>
+	                            </ul>
+	                            <a href="javascript:void(0)">Explore Intelligent Technologies solution ></a>
+	                        </div>
+	                    </div>
+	                </div>
+	            </div>
+
+
 	        </div>
 	    </div>
 	</section>
@@ -719,7 +724,7 @@
 	    </div>
 	</section>
 
-	
+
 
 	<section class="alwaysService d-none">
 	    <div class="container">
@@ -772,7 +777,7 @@
 	    </div>
 	</section>
 
-	
+
 
 	<section class="discover">
 	    <div class="container">
