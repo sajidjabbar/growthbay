@@ -80,19 +80,19 @@
 
 	<section class="fullBarContent">
 	    <div class="container">
-	        <h3>Why you would prefer our technology and automation to anywhere else?</h3>
+	        <h3>Why you would prefer our technology solutions to anywhere else?</h3>
 
 	        <p>
-	            Growth bay has helped various companies adapt to versatile and
-	            recessionary markets through Innovation and Investment growth
-	            catalysts to spur demand, especially in given the recessionary
-	            environment. Growthbay amplified Services can consult with you
-	            to deliver on precisely what you need.
+	            We are committed to building a successful tech-enabled transformation for your business, by fully
+	            optimizing your value source (E-commerce and digital marketing, Digitized sales and channel, Advanced
+	            pricing, Analytics-driven marketing) from their commercial activities. As the industry is evolving,
+	            businesses are realizing how powerful technology is and how efficiently it helps to increase the sales in
+	            businesses and we are here to keep you up-to-date and even beyond with the industry.
 	        </p>
 
-	        <p class="note">
+	        <!-- <p class="note">
 	            New York Times, Los Angeles Times, Washington Post, and San Francisco Chronicle.
-	        </p>
+	        </p> -->
 	    </div>
 	</section>
 
@@ -110,7 +110,7 @@
 			</div>
 		</div>
 	</section> -->
-	<section class="servicePro">
+	<!-- <section class="servicePro">
 	    <div class="container">
 	        <div class="row d-none">
 	            <div class="col-md-6">
@@ -245,7 +245,7 @@
 	            </div>
 	        </div>
 
-	        <div class="row">
+	       <div class="row">
 	            <div class="col-md-6">
 	                <div class="spBox">
 	                    <div class="imgBox">
@@ -448,9 +448,9 @@
 	                    </div>
 	                </div>
 	            </div>
-	        </div>
+	        </div> 
 	    </div>
-	</section>
+	</section> -->
 
 	<section class="sap">
 	    <div class="heroDv  d-none">
@@ -581,31 +581,43 @@
 	</section>
 	<section class="fullBarContent">
 	    <div class="container">
+	        <div class="row">
+	            <div class="col-md-6 mb-5">
+	                <figure>
+	                    <img class="img-fluid" src="images/dashboard.png" alt="">
+	                </figure>
+	            </div>
+	            <div class="col-md-6">
+	                <p class="m-0 text-left">Growthbay is here to help you achieve strategic growth while inspiring and
+	                    leading sales teams
+	                    to crush their quotas using the right tech tools. By efficiently Scaling your Revenue Team from
+	                    proactive
+	                    prospecting, deal acceleration, intelligent sales planning, audience creation through the right
+	                    tech, your
+	                    business growth is guaranteed
+	                </p>
 
+	                <h5 class="mb-3 mt-4">Features include:</h5>
+	                <ul class="p-0 pl-3">
+	                    <li>Continuously adapt and respond to the changing digital, technological, and business analytics
+	                        landscape.</li>
+	                    <li>Build strategic road map and scale the necessary changes for a tech enabled business
+	                        transformation.
+	                    </li>
+	                    <li>Provide the flexibility your business needs to excel across all value-creation levers of the
+	                        commercial function.</li>
+	                    <li>Deliver result that will produce new opportunities more readily, serve customers more
+	                        effectively—and
+	                        accelerate business growth.</li>
+	                </ul>
+	            </div>
+	        </div>
 
-	        <p class="m-0 text-left">Growthbay is here to help you achieve strategic growth while inspiring and leading sales teams
-	            to crush their quotas using the right tech tools. By efficiently Scaling your Revenue Team from proactive
-	            prospecting, deal acceleration, intelligent sales planning, audience creation through the right tech, your
-	            business growth is guaranteed
-	        </p>
-
-	        <h5 class="mb-3 mt-4">Features include:</h5>
-	        <ul class="p-0 pl-3">
-	            <li>Continuously adapt and respond to the changing digital, technological, and business analytics
-	                landscape.</li>
-	            <li>Build strategic road map and scale the necessary changes for a tech enabled business transformation.
-	            </li>
-				<li>Provide the flexibility your business needs to excel across all value-creation levers of the
-	        commercial function.</li>
-			<li>Deliver result that will produce new opportunities more readily, serve customers more effectively—and
-	        accelerate business growth.</li>
-	        </ul>
-	     
 	    </div>
 	</section>
 
 
-	<section class="appdatacontent">
+	<!-- <section class="appdatacontent">
 	    <div class="container">
 	        <div class="row">
 	            <div class="col-md-3 mb-3">
@@ -690,7 +702,7 @@
 
 	        </div>
 	    </div>
-	</section>
+	</section> -->
 
 	<section class="logosComp  d-none">
 	    <div class="container">

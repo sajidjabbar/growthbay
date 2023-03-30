@@ -156,7 +156,7 @@
 	    </div>
 	</section>
 
-	<section class="fundingPortfolio">
+	<section class="fundingPortfolio d-none">
 	    <h3 class="d-none">Funding Portfolio</h3>
 
 	    <div class="inBox">
@@ -234,7 +234,7 @@
 	    </div>
 	</section>
 
-	<section class="feature">
+	<section class="feature pt-0 pb-0">
 	    <div class="container">
 	        <h3>Features</h3>
 
@@ -486,7 +486,7 @@
 	            </div>
 	        </div>
 
-	        <div class="grayBox">
+	        <!-- <div class="grayBox">
 	            <div class="row">
 	                <div class="col-md-4">
 	                    <div class="boxWithIco">
@@ -578,7 +578,7 @@
 	                    </div>
 	                </div>
 	            </div>
-	        </div>
+	        </div> -->
 	    </div>
 	</section>
 

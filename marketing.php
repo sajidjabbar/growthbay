@@ -146,7 +146,7 @@
 			</div>
 		</div>
 	</section> -->
-	<section class="common">
+	<!-- <section class="common">
 	    <div class="container">
 	        <h3>Improve your ROI with productive marketing.</h3>
 	        <p> Growthbay provides you with the most relevant digital marketing strategy or your type of business. Blending
@@ -157,7 +157,7 @@
 	            results by working on every variable that impacts SERPs. Trust our proven track record to maximize your
 	            visibility online. Set your business up for long-term success </p>
 	    </div>
-	</section>
+	</section> -->
 	<section class="common">
 	    <div class="container">
 	        <h3>Marketing and Management Services</h3>

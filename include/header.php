@@ -54,17 +54,17 @@
 						</a>
 					</li>
 	
-					<li>
+					<!-- <li>
 						<a href="services.php">
 							Services
 						</a>
-					</li>
+					</li> -->
 	
-					<li>
+					<!-- <li>
 						<a href="#">
 							INSIGHTS
 						</a>
-					</li>
+					</li> -->
 	
 					<li class="d-none">
 						<a href="#">

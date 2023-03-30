@@ -39,7 +39,7 @@ a {
 /* Header Start */
 header#top {
   background: #fff;
-  padding: 15px 0;
+  padding: 0px 0 15px;
 }
 header#top .container {
   display: flex;
@@ -75,6 +75,8 @@ header#top .navBarDv ul.mainNav li a {
 }
 
 header#top .infoBtns {
+  display: flex;
+  align-items: center;
 }
 header#top .infoBtns .btngroups {
 }
@@ -403,7 +405,7 @@ section.quote .topImg {
 }
 section.quote .topImg img {
   width: 70px;
-  transform: skew(-20deg);
+  /* transform: skew(-20deg); */
 }
 section.quote h3 {
   font-size: 27px;
@@ -1411,6 +1413,7 @@ footer.footerDV .getinTouch .address .appBtns .btngroups a img {
   font-size: 15px;
   color: #ffffff;
   padding-top: 30px;
+  padding-right: 30px;
 }
 
 .socialFooter ul li a {

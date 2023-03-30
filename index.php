@@ -71,6 +71,16 @@
 	    </div>
 	</section>
 
+	<section class="video-start py-5">
+		<div class="container">
+			<div class="video-start">
+				<video  class="img-fluid" controls autoplay muted>
+					<source src="./images/video/index.mp4" type="video/mp4">
+				</video>
+			</div>
+		</div>
+	</section>
+
 	<section class="GrowthBay ">
 	    <div class="container">
 	        <h3>
@@ -819,15 +829,6 @@
 	</section>
 	
 	
-	<section class="video-start py-4">
-		<div class="container">
-			<div class="video-start">
-				<video  class="img-fluid" controls autoplay muted>
-					<source src="./images/video/index.mp4" type="video/mp4">
-				</video>
-			</div>
-		</div>
-	</section>
 	<section class="location bgWhite" style="padding-bottom: 0px;">
 	    <div class="container">
 	        <div class="boxTop">
@@ -1016,7 +1017,7 @@
 	    </div>
 	</section>
 
-	<section class="logosComp">
+	<!-- <section class="logosComp">
 	    <div class="container">
 	        <h3>Partners we bring on board</h3>
 
@@ -1046,7 +1047,7 @@
 	            SEE ALL Customers
 	        </a>
 	    </div>
-	</section>
+	</section> -->
 
 	<section class="worth d-none">
 	    <div class="container">

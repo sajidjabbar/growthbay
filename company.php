@@ -1029,7 +1029,7 @@
 	</section> -->
 
 
-	<section class="logosComp">
+	<!-- <section class="logosComp">
 	    <div class="container">
 	        <h3>Partners we bring on board</h3>
 
@@ -1087,9 +1087,9 @@
 
 	    
 	    </div>
-	</section>
+	</section> -->
 
-	<section class="leading">
+	<!-- <section class="leading">
 	    <div class="container">
 	        <h3>Trusted by leading companies worldwide</h3>
 
@@ -1113,13 +1113,13 @@
 	            </div>
 	        </div>
 
-	        <!-- <div class="row">
+	       <div class="row">
 	            <div class="col-md-12">
 	                <a href="#" class="btn btn-view">View all customers</a>
 	            </div>
-	        </div> -->
+	        </div>
 	    </div>
-	</section>
+	</section> -->
 
 	<section class="worth ">
 	    <div class="container">

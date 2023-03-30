@@ -22,10 +22,10 @@
 
 
 	<footer class="footerDV">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-3">
-					<!-- <div class="explore">
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-md-4">
+	                <!-- <div class="explore">
 						<h4>Explore</h4>
 
 						<ul>
@@ -48,126 +48,127 @@
 							</li>
 						</ul>
 					</div> -->
-					<div class="footer-logo">
-					<img src="./images/logo.png" alt="">	
-					<p>Growthbay is the premier membership community for high-net-worth wealth creators and preservers.</p>
-					</div>
-						
-					<div class="socialFooter">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="fa fa-twitter" aria-hidden="true"></i>
-										</a>
-									</li>
+	                <div class="footer-logo">
+	                    <img src="./images/logo.png" alt="">
+	                    <p>Growthbay is the premier membership community for high-net-worth wealth creators and preservers.
+	                    </p>
+	                </div>
 
-									<li>
-										<a href="#">
-											<i class="fa fa-linkedin" aria-hidden="true"></i>
-										</a>
-									</li>
+	                <!-- <div class="socialFooter">
+	                    <ul>
+	                        <li>
+	                            <a href="#">
+	                                <i class="fa fa-twitter" aria-hidden="true"></i>
+	                            </a>
+	                        </li>
 
-									<li>
-										<a href="#">
-											<i class="fa fa-facebook" aria-hidden="true"></i>
-										</a>
-									</li>
+	                        <li>
+	                            <a href="#">
+	                                <i class="fa fa-linkedin" aria-hidden="true"></i>
+	                            </a>
+	                        </li>
 
-									<li>
-										<a href="#">
-											<i class="fa fa-instagram" aria-hidden="true"></i>
-										</a>
-									</li>
-								</ul>
-							</div>
-				</div>
+	                        <li>
+	                            <a href="#">
+	                                <i class="fa fa-facebook" aria-hidden="true"></i>
+	                            </a>
+	                        </li>
 
-				<div class="col-md-3">
-					<div class="sales">
-						<h4>Sales</h4>
+	                        <li>
+	                            <a href="#">
+	                                <i class="fa fa-instagram" aria-hidden="true"></i>
+	                            </a>
+	                        </li>
+	                    </ul>
+	                </div> -->
+	            </div>
 
-						<div class="address">
-							<h5>North America</h5>
+	            <!-- <div class="col-md-3">
+	                <div class="sales">
+	                    <h4>Sales</h4>
 
-							<p>
-								<span>1-866-GROWTHBAY</span> or
-							</p>
-							<p>
-								<a href="tel:7138257565">+713-825-7565</a>
-							</p>
-						</div>
+	                    <div class="address">
+	                        <h5>North America</h5>
 
-						<div class="address">
-							<h5>Europe, Middle East & Africa</h5>
+	                        <p>
+	                            <span>1-866-GROWTHBAY</span> or
+	                        </p>
+	                        <p>
+	                            <a href="tel:7138257565">+713-825-7565</a>
+	                        </p>
+	                    </div>
 
-							<p>
-								<a href="tel:4402077565">+440-207-7565 5200</a>
-							</p>
-						</div>
+	                    <div class="address">
+	                        <h5>Europe, Middle East & Africa</h5>
 
-						<div class="address">
-							<h5>Asia Pacific</h5>
+	                        <p>
+	                            <a href="tel:4402077565">+440-207-7565 5200</a>
+	                        </p>
+	                    </div>
 
-							<p>
-								<a href="tel:6569086990">+65-6908-6990</a>
-							</p>
-						</div>
-						
-						<div class="address">
-							<h5>Latin America</h5>
+	                    <div class="address">
+	                        <h5>Asia Pacific</h5>
 
-							<p>
-								<a href="tel:551149497700">+55-11-4949-7700</a>
-							</p>
-						</div>
-						
-						<div class="address">
-							<h5>Looking for local numbers?</h5>
+	                        <p>
+	                            <a href="tel:6569086990">+65-6908-6990</a>
+	                        </p>
+	                    </div>
 
-							 <p>
-								<a href="#">See the full list</a>
-							</p>  
-						</div>
-					</div>
-				</div>
+	                    <div class="address">
+	                        <h5>Latin America</h5>
 
-				<div class="col-md-3">
-					<div class="support">
-						<h4>Support</h4>
+	                        <p>
+	                            <a href="tel:551149497700">+55-11-4949-7700</a>
+	                        </p>
+	                    </div>
 
-						<div class="address">
-							<h5>International</h5>
-							
-							<p>
-								<a href="tel:12125437800">+1-212-543-7800</a>
-							</p>
-							<p>
-								<span>Or find the local Number</span>
-							</p>
-						</div>
+	                    <div class="address">
+	                        <h5>Looking for local numbers?</h5>
 
-						<br>
+	                        <p>
+	                            <a href="#">See the full list</a>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div> -->
 
-						<div class="address">
-							<h5>OTHER</h5>
-							
-							<br>
+	            <div class="col-md-4">
+	                <div class="support">
+	                    <h4>Support</h4>
 
-							<p>
-								<span>Virtual Date Room FAQ</span>
-							</p>
-							<p>
-								<span>Press Releases & News</span>
-							</p>
-						</div>
-					</div>
-				</div>
+	                    <div class="address">
+	                        <h5>International</h5>
 
-				<div class="col-md-3">
-					<div class="getinTouch">
-						<h4>SUBSCRIBE TO OUR NEWS LETTER</h4>
+	                        <p>
+	                            <a href="tel:12125437800">+1-212-543-7800</a>
+	                        </p>
+	                        <p>
+	                            <span>Or find the local Number</span>
+	                        </p>
+	                    </div>
 
-						<!-- <div class="address">
+	                    <br>
+
+	                    <div class="address">
+	                        <h5>OTHER</h5>
+
+	                        <br>
+
+	                        <p>
+	                            <span>Virtual Date Room FAQ</span>
+	                        </p>
+	                        <p>
+	                            <span>Press Releases & News</span>
+	                        </p>
+	                    </div>
+	                </div>
+	            </div>
+
+	            <div class="col-md-4">
+	                <div class="getinTouch">
+	                    <h4>SUBSCRIBE TO OUR NEWS LETTER</h4>
+
+	                    <!-- <div class="address">
 							<p>
 								<span>Get informed, Stay Connected</span>
 							</p>
@@ -201,29 +202,30 @@
 							</div>
 						</div> -->
 
-						<form>
-  <div class="form-group">
-   
-    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="First Name">
-  </div>
-  <div class="form-group">
- 
-    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Last Name">
-  </div>
-  <div class="form-group">
- 
-    <input type="email" class="form-control" id="exampleInputPassword1" placeholder="Email">
-</div>
-<div class="form-group">
- 
-    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Comments">
-  </div>
-  <button type="submit" class="btn btn-primary">Subscribe</button>
-</form>
+	                    <form>
+	                        <div class="form-group">
 
-						<br>
+	                            <input type="text" class="form-control" id="exampleInputEmail1"
+	                                aria-describedby="emailHelp" placeholder="First Name">
+	                        </div>
+	                        <div class="form-group">
 
-						<!-- <div class="address">
+	                            <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Last Name">
+	                        </div>
+	                        <div class="form-group">
+
+	                            <input type="email" class="form-control" id="exampleInputPassword1" placeholder="Email">
+	                        </div>
+	                        <div class="form-group">
+
+	                            <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Comments">
+	                        </div>
+	                        <button type="submit" class="btn btn-primary">Subscribe</button>
+	                    </form>
+
+	                    <br>
+
+	                    <!-- <div class="address">
 							<h5>CHECK OUT OUR APPS</h5>
 							
 							<br>
@@ -240,10 +242,10 @@
 								</div>
 							</div>
 						</div> -->
-					</div>
-				</div>
-			</div>
-		</div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
 	</footer>
 
 	<!-- <div class="footerBottom">
@@ -313,80 +315,81 @@
 		</div>
 	</div> -->
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/scripts.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/scripts.js"></script>
 	<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
 	<script src="./slick/slick.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript">
-		$(document).on('ready', function() {
-			/*
-			$(".vertical-center-4").slick({
-				dots: true,
-				vertical: true,
-				centerMode: true,
-				slidesToShow: 4,
-				slidesToScroll: 2
-			});
-			$(".vertical-center-3").slick({
-				dots: true,
-				vertical: true,
-				centerMode: true,
-				slidesToShow: 3,
-				slidesToScroll: 3
-			});
-			$(".vertical-center-2").slick({
-				dots: true,
-				vertical: true,
-				centerMode: true,
-				slidesToShow: 2,
-				slidesToScroll: 2
-			});
-			$(".vertical-center").slick({
-				dots: true,
-				vertical: true,
-				centerMode: true,
-			});
-			$(".vertical").slick({
-				dots: true,
-				vertical: true,
-				slidesToShow: 3,
-				slidesToScroll: 3
-			});
-			*/
-			$(".single").slick({
-				arrow: true,
-				infinite: true,
-				slidesToShow: 1,
-				slidesToScroll: 1
-			});
-			$(".company").slick({
-				arrow: true,
-				infinite: true,
-				slidesToShow: 5,
-				slidesToScroll: 1
-			});
-			
-			/*
-			$(".center").slick({
-				dots: true,
-				infinite: true,
-				centerMode: true,
-				slidesToShow: 5,
-				slidesToScroll: 3
-			});
-			$(".variable").slick({
-				dots: true,
-				infinite: true,
-				variableWidth: true
-			});
-			$(".lazy").slick({
-				lazyLoad: 'ondemand', // ondemand progressive anticipated
-				infinite: true,
-				arrow: true
-			});
-			*/
-		});
+$(document).on('ready', function() {
+    /*
+    $(".vertical-center-4").slick({
+    	dots: true,
+    	vertical: true,
+    	centerMode: true,
+    	slidesToShow: 4,
+    	slidesToScroll: 2
+    });
+    $(".vertical-center-3").slick({
+    	dots: true,
+    	vertical: true,
+    	centerMode: true,
+    	slidesToShow: 3,
+    	slidesToScroll: 3
+    });
+    $(".vertical-center-2").slick({
+    	dots: true,
+    	vertical: true,
+    	centerMode: true,
+    	slidesToShow: 2,
+    	slidesToScroll: 2
+    });
+    $(".vertical-center").slick({
+    	dots: true,
+    	vertical: true,
+    	centerMode: true,
+    });
+    $(".vertical").slick({
+    	dots: true,
+    	vertical: true,
+    	slidesToShow: 3,
+    	slidesToScroll: 3
+    });
+    */
+    $(".single").slick({
+        arrow: true,
+        infinite: true,
+        slidesToShow: 1,
+        slidesToScroll: 1
+    });
+    $(".company").slick({
+        arrow: true,
+        infinite: true,
+        slidesToShow: 5,
+        slidesToScroll: 1
+    });
+
+    /*
+    $(".center").slick({
+    	dots: true,
+    	infinite: true,
+    	centerMode: true,
+    	slidesToShow: 5,
+    	slidesToScroll: 3
+    });
+    $(".variable").slick({
+    	dots: true,
+    	infinite: true,
+    	variableWidth: true
+    });
+    $(".lazy").slick({
+    	lazyLoad: 'ondemand', // ondemand progressive anticipated
+    	infinite: true,
+    	arrow: true
+    });
+    */
+});
 	</script>
-  </body>
-</html>
+	</body>
+
+	</html>
