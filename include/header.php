@@ -88,9 +88,11 @@
 						LOGIN
 					</a>
 				</div>
-			</div>
+			</div>	
 		</div>
 	</header>
+
+	
 
 	<div class="headerBar">
 		<div class="container">

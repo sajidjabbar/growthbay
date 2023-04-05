@@ -97,7 +97,7 @@
 
 	                    <div class="gbImg">
 	                        <figure>
-	                            <img src="./images/growthbay_img1.png" alt="">
+	                            <img class="img-fluid w-100" src="./images/growthbay_img1.png" alt="">
 	                        </figure>
 	                    </div>
 
@@ -125,7 +125,7 @@
 
 	                    <div class="gbImg">
 	                        <figure>
-	                            <img src="./images/growthbay_img2.png" alt="">
+	                            <img class="img-fluid w-100" src="./images/growthbay_img2.png" alt="">
 	                        </figure>
 	                    </div>
 
@@ -153,7 +153,7 @@
 
 	                    <div class="gbImg">
 	                        <figure>
-	                            <img src="./images/growthbay_img3.png" alt="">
+	                            <img class="img-fluid w-100" src="./images/growthbay_img3.png" alt="">
 	                        </figure>
 	                    </div>
 

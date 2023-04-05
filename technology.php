@@ -584,7 +584,7 @@
 	        <div class="row">
 	            <div class="col-md-6 mb-5">
 	                <figure>
-	                    <img class="img-fluid" src="images/dashboard.png" alt="">
+	                    <img class="img-fluid" src="images/technology-img.png" alt="">
 	                </figure>
 	            </div>
 	            <div class="col-md-6">
